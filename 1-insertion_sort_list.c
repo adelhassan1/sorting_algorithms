@@ -1,7 +1,8 @@
 #include "sort.h"
 
 /**
- * insertion_sort_list - a function that sorts a doubly linked list of integers.
+ * insertion_sort_list - a function that sorts
+ * doubly linked list of integers.
  * @list: list of integers.
  *
  * Return: nothing.
